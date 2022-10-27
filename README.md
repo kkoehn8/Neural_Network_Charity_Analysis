@@ -35,6 +35,7 @@ We created two hidden layers with the following information:
  - Hidden Layer 2 has 50 neurons
 
 The activation method was: relu
+
 The parameters of the initial model are shown below
 ![Model1_parameters](https://github.com/kkoehn8/Neural_Network_Charity_Analysis/blob/main/Images/ModelParameters.PNG)
 
@@ -54,6 +55,7 @@ We created three hidden layers with the following information:
  - Hidden Layer 3 has 20 neurons
 
 The activation method was: relu
+
 The parameters of the initial model are shown below
 ![Model2_parameters](https://github.com/kkoehn8/Neural_Network_Charity_Analysis/blob/main/Images/ModelParameters_D3_1.PNG)
 
@@ -74,6 +76,7 @@ We created four hidden layers with the following information:
  - Hidden Layer 4 has 5 neurons
 
 The activation method was: sigmoid
+
 The parameters of the initial model are shown below
 ![Model3_parameters](https://github.com/kkoehn8/Neural_Network_Charity_Analysis/blob/main/Images/ModelParameters_D3_2.PNG)
 
@@ -94,6 +97,7 @@ We created four hidden layers with the following information:
  - Hidden Layer 4 has 5 neurons
 
 The activation method was: sigmoid
+
 The parameters of the initial model are shown below
 ![Model4_parameters](https://github.com/kkoehn8/Neural_Network_Charity_Analysis/blob/main/Images/ModelParameters_D3_3.PNG)
 
